@@ -1,0 +1,12 @@
+/* 드롭다운 기본 스타일 */
+.dropdown-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out;
+  }
+  
+  /* 드롭다운 활성화 시 스타일 */
+  .dropdown-content.show {
+    max-height: 200px; /* 메뉴의 실제 높이로 변경 */
+  }
+  

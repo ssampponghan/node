@@ -1,0 +1,22 @@
+/* footer.css */
+.footer {
+    background-color: #f0f0f0;
+    color: #666666;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-links {
+    margin-bottom: 10px;
+  }
+  
+  .footer-links a {
+    color: #666666;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .footer-info {
+    font-size: 14px;
+  }
+  
